@@ -1,0 +1,29 @@
+Options -Indexes
+
+
+
+<Files *.php>
+Deny from all
+</Files>
+
+
+
+
+Order Allow,Deny
+Deny from all
+<FilesMatch "^[^.]+\.(?i:jpe?g|png|gif|doc|docx|pdf)$">
+Allow from all
+</FilesMatch>
+
+
+
+
+
+<FilesMatch "\.(php|php\.)(.+)(\w|\d)$">
+ Order Allow,Deny
+ Deny from all
+</FilesMatch>
+
+
+
+RedirectMatch 403 .*
