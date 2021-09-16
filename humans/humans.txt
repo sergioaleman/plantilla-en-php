@@ -1,0 +1,40 @@
+/* Somos humanos, queremos una web humana */
+/* humanstxt.org */
+
+/* TEAM */
+	Desarrollador: Sergio Alem�n
+	Profesi�n: Estudiante de Ingenier�a de Sistemas
+        Universidad de Oriente N�cleo de Monagas, Venezuela
+        Google+ profile: https://plus.google.com/+SergioMiguelAlemanGordones-Oficial
+	Site: http://www.publimedica.com.ve
+        Blog: http://www.escribete.com.ve
+	Contacto: info [at] publimedica.com.ve
+	Twitter: @SergioAleman1
+        Instagram: @SergioAlemanOficial
+        Facebook: https://www.facebook.com/SergioAlemanOficial
+	Location: Matur�n, Venezuela
+		
+
+/* SITE */
+	Last update: Today
+	Language: Spanish, Spain
+	Doctype: HTML5
+        Standards: XHTML, CSS
+	CMS: WordPress 3.x (PHP y MySQL)
+	Components: jQuery, 
+	IDE: Coda, Photoshop, TextEdit, Transmit
+	Elements: CCS3, Gzip, Strong ETag
+	Protocolos: IPv4, IPv6, HTTP 1.1, SPDY y HTTP/2
+	Herramientas: Notepad++, FileZilla, Photoshop, Firefox
+	Servicio de Hosting: https://ifastnet.com/
+	Tipo de alojamiento: Servidor VPS
+	Analitica: Google Analytics 
+	Publicidad: Google AdSense
+	Servicio CDN/Reverse Proxy: https://www.cloudflare.com/
+	SSL: Comodo CA Limited
+	Tecnologia: Nginx
+
+
+/* OTHERS */	
+	Informaci�n sobre c�mo hacer mi humans.txt:
+	https://www.publimedica.com.ve/como-hacer-un-humanstxt-y-para-que-tenerlo-en-un-blog-o-sitio-web
